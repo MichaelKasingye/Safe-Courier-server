@@ -50,6 +50,6 @@ These end points carry out these functions.
 }
   ```
 10. PUT- https://safecourier.herokuapp.com/api/v1/parcels/<parcelId>/presentLocation - Change the present location of a specific parcel delivery order by admin
-  {
+ ``` {
      "pickUp":"nairobi"
-}
+}```
